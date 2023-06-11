@@ -4,5 +4,5 @@ The application is a simple calendar application that allows a user to save even
 
 # Links
 
-deployed application: https://jacquesmartial.github.io/code-quiz/
+deployed application: https://jacquesmartial.github.io/Third-party-apis-work-day-scheduler/
 github repository : https://github.com/jacquesMartial/Third-party-apis-work-day-scheduler
